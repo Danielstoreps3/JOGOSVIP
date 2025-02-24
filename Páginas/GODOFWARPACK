@@ -58,7 +58,7 @@
     <div class="container">
         <h1>DIGITE SUA SENHA PARA BAIXAR O JOGO</h1>
         <div class="buttons">
-            <a href="GODOFWARPACK.zip" download>
+            <a href="." download>
                 <button>Download</button>
             </a>
             <a href="#">
